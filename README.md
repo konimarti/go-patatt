@@ -4,7 +4,7 @@ Patch attestation clone in Golang of [patatt](https://github.com/mricon/patatt).
 
 ### Installation
 
-`go install github.com/konimarti/go-patatt@latest`
+`go install github.com/konimarti/go-patatt/cmds/patatt@latest`
 
 ### Usage
 
